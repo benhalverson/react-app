@@ -27,7 +27,7 @@
     "eslint": "4.10.0",
     "eslint-plugin-react": "7.4.0",
     "jest": "21.2.1",
-    "pm2": "2.7.2",
+    "pm2": "5.2.2",
     "react-test-renderer": "16.0.0",
     "standard-version": "4.2.0"
   },
